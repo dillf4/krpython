@@ -1,6 +1,6 @@
 # krpython
-Python but can code with Korean
-this sucks bro
+#Python but can code with Korean
+#this sucks bro
 
 #instructions
 출력하다(text) -- print
