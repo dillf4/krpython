@@ -1,4 +1,5 @@
 # krpython
+Python but can code with Korean
 this sucks bro
 
 #instructions
